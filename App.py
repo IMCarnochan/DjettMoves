@@ -3,7 +3,8 @@ import pandas as pd
 
 # Load the move dataset from your GitHub repo
 
-data_url = "https://raw.githubusercontent.com/imcarnochan/DjettMoves/main/moves.csv" df = pd.read_csv(data_url)
+data_url = "https://raw.githubusercontent.com/imcarnochan/DjettMoves/main/moves.csv" 
+df = pd.read_csv(data_url)
 
 st.title("Elemental Martial Arts Move Generator")
 
