@@ -30,7 +30,8 @@ display_move(move, "Grappling Move")
 if st.button("Roll Unarmed Attack"): move = df[df["Category"] == "Unarmed"].sample(1).iloc[0] 
 display_move(move, "Unarmed Move")
 
-if st.button("Roll Flurry of Blows"): moves = df[df["Category"] == "Unarmed"].sample(2) for i, (_, move) in enumerate(moves.iterrows(), 1): 
+if st.button("Roll Flurry of Blows"): moves = df[df["Category"] == "Unarmed"].sample(2) 
+for i, (_, move) in enumerate(moves.iterrows(), 1): 
 display_move(move, f"Unarmed Move {i}")
 
 st.info("Click any button to see what Djett does!")
