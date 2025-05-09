@@ -20,7 +20,7 @@ def display_move(result, title):
           "Grappling": "Twist, lock, and crash—this move seizes the body like a tidal surge of raw control.", 
           "Unarmed": "A blur of fists and fury, born from breath, balance, and elemental mastery." 
      } 
-          flavor = flavor_texts.get(result['Category'], 
+     flavor = flavor_texts.get(result['Category'], 
                                     "A mysterious force flows through this motion.")
 
 martial_quotes = [
