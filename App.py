@@ -128,8 +128,7 @@ if st.button("Roll One Unarmed Move"):
 if st.button("Roll Two Unarmed Moves"):
     results = df[df["Category"] == "Unarmed"].sample(2)
     st.session_state['last_moves'] = results.reset_index(drop=True)
-    for i, (_, result) in
-enumerate(results.iterrows(), 1):
+    for i, (_, result) in enumerate(results.iterrows(), 1):
     display_move(result, f"Unarmed Move {i}")
 
 st.info("Click any button to generate a martial arts move!")
