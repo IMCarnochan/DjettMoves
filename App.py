@@ -1,13 +1,13 @@
 import streamlit as st 
 import pandas as pd
 
-Load the move dataset from your GitHub repo
+# Load the move dataset from your GitHub repo
 
 data_url = "https://raw.githubusercontent.com/imcarnochan/DjettMoves/main/moves.csv" df = pd.read_csv(data_url)
 
 st.title("Elemental Martial Arts Move Generator")
 
-Track last rolled moves
+# Track last rolled moves
 
 if 'last_moves' not in st.session_state: st.session_state['last_moves'] = pd.DataFrame()
 
@@ -131,25 +131,42 @@ st.markdown(f"**Formal Move Name:** *{result['Formal Move Name']}*")
 st.caption(flavor)
 st.markdown(f"> _{quote}_")
 
-if st.button("Roll Weapon Move"): result = df[df["Category"] == "Weapon"].sample(1).iloc[0] 
-display_move(result, "Weapon Move") st.session_state['last_moves'] = pd.DataFrame([result])
+if st.button("Roll Weapon Move"): 
+result = df[df["Category"] == "Weapon"].sample(1).iloc[0] 
+display_move(result, "Weapon Move") 
+st.session_state['last_moves'] = pd.DataFrame([result])
 
-if st.button("Roll Grappling Move"): result = df[df["Category"] == "Grappling"].sample(1).iloc[0] 
-display_move(result, "Grappling Move") st.session_state['last_moves'] = pd.DataFrame([result])
+if st.button("Roll Grappling Move"): 
+result = df[df["Category"] == "Grappling"].sample(1).iloc[0] 
+display_move(result, "Grappling Move") 
+st.session_state['last_moves'] = pd.DataFrame([result])
 
-if st.button("Roll One Unarmed Move"): result = df[df["Category"] == "Unarmed"].sample(1).iloc[0] 
-display_move(result, "Unarmed Move") st.session_state['last_moves'] = pd.DataFrame([result])
+if st.button("Roll One Unarmed Move"): 
+result = df[df["Category"] == "Unarmed"].sample(1).iloc[0] 
+display_move(result, "Unarmed Move") 
+st.session_state['last_moves'] = pd.DataFrame([result])
 
-if st.button("Roll Two Unarmed Moves"): results = df[df["Category"] == "Unarmed"].sample(2) st.session_state['last_moves'] = results.reset_index(drop=True) 
-for i, (_, result) in enumerate(results.iterrows(), 1): display_move(result, f"Unarmed Move {i}")
+if st.button("Roll Two Unarmed Moves"): 
+results = df[df["Category"] == "Unarmed"].sample(2) 
+st.session_state['last_moves'] = results.reset_index(drop=True) 
+for i, (_, result) in enumerate(results.iterrows(), 1): 
+display_move(result, f"Unarmed Move {i}")
 
 st.info("Click any button to generate a martial arts move!")
 
-Download full dataset
+# Download full dataset
 
-st.download_button( label="Download Full Move List as CSV", data=df.to_csv(index=False).encode('utf-8'), file_name='moves.csv', mime='text/csv' )
+st.download_button( 
+    label="Download Full Move List as CSV", 
+    data=df.to_csv(index=False).encode('utf-8'), 
+    file_name='moves.csv', 
+    mime='text/csv' )
 
-Download last rolled moves
+# Download last rolled moves
 
-if st.session_state['last_moves'].shape[0] > 0: st.download_button( label="Download Last Rolled Moves", data=st.session_state['last_moves'].to_csv(index=False).encode('utf-8'), file_name='last_moves.csv', mime='text/csv' )
+if st.session_state['last_moves'].shape[0] > 0: st.download_button( 
+    label="Download Last Rolled Moves", 
+    data=st.session_state['last_moves'].to_csv(index=False).encode('utf-8'), 
+    file_name='last_moves.csv', 
+    mime='text/csv' )
 
