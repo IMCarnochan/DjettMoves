@@ -6,7 +6,7 @@ import random
 data_url = "https://raw.githubusercontent.com/imcarnochan/DjettMoves/main/moves.csv"
 df = pd.read_csv(data_url)
 
-st.title("Elemental Martial Arts Move Generator")
+st.title("Clickin' on some D'jett moves. D'jett mooooves.")
 
 # Track last rolled moves
 if 'last_moves' not in st.session_state:
@@ -112,28 +112,28 @@ def display_move(result, title):
         st.markdown(f"> _{quote}_")
 
 # Buttons
-if st.button("Roll Weapon Move"):
+if st.button("Weapin Attack"):
     result = df[df["Category"] == "Weapon"].sample(1).iloc[0]
     display_move(result, "Weapon Move")
     st.session_state['last_moves'] = pd.DataFrame([result])
 
-if st.button("Roll Grappling Move"):
+if st.button("Grapple Attack"):
     result = df[df["Category"] == "Grappling"].sample(1).iloc[0]
     display_move(result, "Grappling Move")
     st.session_state['last_moves'] = pd.DataFrame([result])
 
-if st.button("Roll One Unarmed Move"):
+if st.button("Unarmed Attack"):
     result = df[df["Category"] == "Unarmed"].sample(1).iloc[0]
     display_move(result, "Unarmed Move")
     st.session_state['last_moves'] = pd.DataFrame([result])
 
-if st.button("Roll Two Unarmed Moves"):
+if st.button("Flurry of Blows"):
     results = df[df["Category"] == "Unarmed"].sample(2).reset_index(drop=True)
     st.session_state['last_moves'] = results
     for i, (_, result) in enumerate(results.iterrows(), 1):
         display_move(result, f"Unarmed Move {i}")
 
-st.info("Click any button to generate a martial arts move!")
+st.info("Click any button to remote control D'jett!")
 
 # Downloads
 st.download_button(
