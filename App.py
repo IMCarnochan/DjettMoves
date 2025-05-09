@@ -32,6 +32,6 @@ if st.button("Attack!"):
 if st.button("Flurry of Blows"):
     results = df[df["Category"] == "Unarmed"].sample(2)
     for i, (_, result) in enumerate(results.iterrows(), 1):
-        display_move(result, f"Unarmed Move {i}")
+        display_move(result, f"Strike {i}")
 
 st.info("Click any button to make Djett dance!")
