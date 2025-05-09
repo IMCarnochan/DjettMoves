@@ -113,23 +113,26 @@ st.markdown(f"> _{quote}_")
 if st.button("Roll Weapon Move"):
     result = df[df["Category"] == "Weapon"].sample(1).iloc[0]
     display_move(result, "Weapon Move")
-    st.session_state['last_moves'] = pd.DataFrame([result])
+    st.session_state['last_moves'] = 
+pd.DataFrame([result])
 
 if st.button("Roll Grappling Move"):
     result = df[df["Category"] == "Grappling"].sample(1).iloc[0]
     display_move(result, "Grappling Move")
-    st.session_state['last_moves'] = pd.DataFrame([result])
+    st.session_state['last_moves'] = 
+pd.DataFrame([result])
 
 if st.button("Roll One Unarmed Move"):
     result = df[df["Category"] == "Unarmed"].sample(1).iloc[0]
     display_move(result, "Unarmed Move")
-    st.session_state['last_moves'] = pd.DataFrame([result])
+    st.session_state['last_moves'] = 
+pd.DataFrame([result])
 
 if st.button("Roll Two Unarmed Moves"):
     results = df[df["Category"] == "Unarmed"].sample(2)
     st.session_state['last_moves'] = results.reset_index(drop=True)
-    for i, (_, result) in enumerate(results.iterrows(), 1):
-        display_move(result, f"Unarmed Move {i}")
+for i, (_, result) in enumerate(results.iterrows(), 1):
+    display_move(result, f"Unarmed Move {i}")
 
 st.info("Click any button to generate a martial arts move!")
 
