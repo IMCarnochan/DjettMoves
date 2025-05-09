@@ -13,11 +13,11 @@ st.title("Elemental Martial Arts Move Generator")
 if 'last_moves' not in st.session_state: st.session_state['last_moves'] = pd.DataFrame()
 
 def display_move(result, title): 
-flavor_texts = { 
-"Weapon": "Forged in steel and sharpened in battle, this technique strikes with precision and mythic force.", 
-"Grappling": "Twist, lock, and crash—this move seizes the body like a tidal surge of raw control.", 
-"Unarmed": "A blur of fists and fury, born from breath, balance, and elemental mastery." } 
-flavor = flavor_texts.get(result['Category'], "A mysterious force flows through this motion.")
+     flavor_texts = { 
+     "Weapon": "Forged in steel and sharpened in battle, this technique strikes with precision and mythic force.", 
+     "Grappling": "Twist, lock, and crash—this move seizes the body like a tidal surge of raw control.", 
+     "Unarmed": "A blur of fists and fury, born from breath, balance, and elemental mastery." } 
+     flavor = flavor_texts.get(result['Category'], "A mysterious force flows through this motion.")
 
 martial_quotes = [
     "Be like water, my friend. — Bruce Lee",
