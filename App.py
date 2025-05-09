@@ -112,7 +112,7 @@ def display_move(result, title):
         st.markdown(f"> _{quote}_")
 
 # Buttons
-if st.button("Weapin Attack"):
+if st.button("Weapon Attack"):
     result = df[df["Category"] == "Weapon"].sample(1).iloc[0]
     display_move(result, "Weapon Move")
     st.session_state['last_moves'] = pd.DataFrame([result])
