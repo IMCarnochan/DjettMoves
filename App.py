@@ -4,7 +4,7 @@ import random
 
 # Load pre-generated data (insert your own if running outside ChatGPT)
 
-data_url = "https://raw.githubusercontent.com/YOUR_USERNAME/martial-arts-move-generator/main/moves.csv"
+data_url = "https://raw.githubusercontent.com/imcarnochan/DjettMoves/main/moves.csv"
 
 # For this example, we simulate the dataframe
 
