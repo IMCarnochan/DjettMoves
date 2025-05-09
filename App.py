@@ -13,7 +13,13 @@ df = pd.DataFrame({ "Category": ["Weapon", "Grappling", "Unarmed"] * 10, "Martia
 st.title("Elemental Martial Arts Move Generator")
 
 def display_move(move, title): st.subheader(title) 
-st.write(f"Martial Art: {move['Martial Art']}") st.write(f"Move: {move['Official Move Name']}") st.write(f"Striking Limb: {move['Striking Limb']}") st.write(f"Speed: {move['Speed (1–10)']}") st.write(f"Power: {move['Power (1–10)']}") st.write(f"Element: {move['Element']}") st.markdown(f"Formal Move Name: {move['Formal Move Name']}")
+st.write(f"Martial Art: {move['Martial Art']}") 
+st.write(f"Move: {move['Official Move Name']}") 
+st.write(f"Striking Limb: {move['Striking Limb']}") 
+st.write(f"Speed: {move['Speed (1–10)']}") 
+st.write(f"Power: {move['Power (1–10)']}") 
+st.write(f"Element: {move['Element']}") 
+st.markdown(f"Formal Move Name: {move['Formal Move Name']}")
 
 if st.button("Roll Weapon Move"): move = df[df["Category"] == "Weapon"].sample(1).iloc[0] display_move(move, "Weapon Move")
 
