@@ -98,17 +98,17 @@ unarmed_quotes = [
     ]
 
 category = result['Category']
-    if category == "Weapon":
-        quote = random.choice(weapon_quotes)
-    elif category == "Grappling":
-        quote = random.choice(grappling_quotes)
-    elif category == "Unarmed":
-        quote = random.choice(unarmed_quotes)
-    else:
-        quote = random.choice(weapon_quotes + grappling_quotes + unarmed_quotes)
+if category == "Weapon":
+    quote = random.choice(weapon_quotes)
+elif category == "Grappling":
+    quote = random.choice(grappling_quotes)
+elif category == "Unarmed":
+    quote = random.choice(unarmed_quotes)
+else:
+    quote = random.choice(weapon_quotes + grappling_quotes + unarmed_quotes)
 
-    st.caption(flavor)
-    st.markdown(f"> _{quote}_")
+st.caption(flavor)
+st.markdown(f"> _{quote}_")
 # Buttons and display
 if st.button("Roll Weapon Move"):
     result = df[df["Category"] == "Weapon"].sample(1).iloc[0]
