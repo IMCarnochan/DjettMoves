@@ -1,0 +1,371 @@
+Category,Martial Art,Official Move Name,Actual Move,Striking Limb,Speed (1–10),Power (1–10),Element,Formal Move Name
+Weapon,German Longsword,Krumphau,Thrust,Weapon Arm,10,4,Lightning,Dragon's Pitch Krumphau
+Weapon,German Longsword,Abnehmen,Thrust,Weapon Arm,7,6,Lightning,Wyvern's Stagger Abnehmen
+Weapon,German Longsword,Zornhau,Strike,Weapon Arm,6,7,Acid,Wyvern's Chin Shot Zornhau
+Weapon,German Longsword,Schielhau,Strike,Weapon Arm,8,7,Cold,Beholder's Takedown Schielhau
+Weapon,German Longsword,Abnehmen,Parry,Weapon Arm,5,8,Lightning,Mindflayer's Combo Abnehmen
+Weapon,German Longsword,Krumphau,Sweep,Weapon Arm,5,5,Thunder,Roc's Crack Krumphau
+Weapon,German Longsword,Krumphau,Thrust,Weapon Arm,10,8,Cold,Kraken's Pounce Krumphau
+Weapon,German Longsword,Schielhau,Thrust,Weapon Arm,5,9,Fire,Dragon's Uppercut Schielhau
+Weapon,German Longsword,Zwerchhau,Parry,Weapon Arm,7,10,Thunder,Basilisk's Kuzushi Zwerchhau
+Weapon,German Longsword,Schielhau,Thrust,Weapon Arm,8,6,Acid,Dragon's Whoosh Schielhau
+Weapon,Tahtib,Staff Cross,Thrust,Weapon Arm,8,6,Acid,Basilisk's Takedown Staff Cross
+Weapon,Tahtib,Sweep Blow,Strike,Weapon Arm,4,8,Cold,Chimera's Stagger Sweep Blow
+Weapon,Tahtib,Sweep Blow,Strike,Weapon Arm,8,7,Thunder,Chimera's Parry Sweep Blow
+Weapon,Tahtib,Sweep Blow,Thrust,Weapon Arm,7,10,Lightning,Gorgon's Drive Sweep Blow
+Weapon,Tahtib,High Strike,Parry,Weapon Arm,10,10,Fire,Beholder's Thud High Strike
+Weapon,Tahtib,High Strike,Sweep,Weapon Arm,4,4,Thunder,Wyvern's Fang High Strike
+Weapon,Tahtib,Hooked Hit,Thrust,Weapon Arm,10,10,Lightning,Basilisk's Slash Hooked Hit
+Weapon,Tahtib,Staff Cross,Sweep,Weapon Arm,4,7,Fire,Chimera's Bam Staff Cross
+Weapon,Tahtib,High Strike,Strike,Weapon Arm,5,9,Fire,Hydra's Pitch High Strike
+Weapon,Tahtib,Upper Stick Thrust,Parry,Weapon Arm,10,9,Cold,Basilisk's Swipe Upper Stick Thrust
+Weapon,Kendo,Kote Strike,Strike,Weapon Arm,8,9,Acid,Beholder's Parry Kote Strike
+Weapon,Kendo,Do Strike,Strike,Weapon Arm,10,5,Thunder,Kraken's Hook Do Strike
+Weapon,Kendo,Do Strike,Strike,Weapon Arm,9,4,Fire,Beholder's Bam Do Strike
+Weapon,Kendo,Do Strike,Strike,Weapon Arm,4,5,Acid,Beholder's Parry Do Strike
+Weapon,Kendo,Kote Strike,Sweep,Weapon Arm,4,9,Acid,Hydra's Fa jin Kote Strike
+Weapon,Kendo,Tsuki,Strike,Weapon Arm,8,10,Cold,Hydra's Pitch Tsuki
+Weapon,Kendo,Hikimen,Sweep,Weapon Arm,5,8,Thunder,Hydra's Clang Hikimen
+Weapon,Kendo,Hikimen,Strike,Weapon Arm,5,10,Fire,Mindflayer's Kiai Hikimen
+Weapon,Kendo,Do Strike,Parry,Weapon Arm,7,10,Thunder,Gorgon's Zap Do Strike
+Weapon,Kendo,Kote Strike,Strike,Weapon Arm,4,10,Cold,Mindflayer's Claw Kote Strike
+Weapon,Canne de combat,Reverse Strike,Parry,Weapon Arm,10,10,Fire,Hydra's Feint Reverse Strike
+Weapon,Canne de combat,Double Coup,Parry,Weapon Arm,10,7,Fire,Roc's Juke Double Coup
+Weapon,Canne de combat,Double Coup,Parry,Weapon Arm,10,5,Acid,Beholder's Zanshin Double Coup
+Weapon,Canne de combat,Coup Fouetté,Thrust,Weapon Arm,4,7,Acid,Roc's Uppercut Coup Fouetté
+Weapon,Canne de combat,Reverse Strike,Parry,Weapon Arm,7,5,Cold,Chimera's Chin Shot Reverse Strike
+Weapon,Canne de combat,Coup Fouetté,Strike,Weapon Arm,4,7,Fire,Dragon's Swipe Coup Fouetté
+Weapon,Canne de combat,Coup Fouetté,Sweep,Weapon Arm,4,8,Fire,Mindflayer's Kuzushi Coup Fouetté
+Weapon,Canne de combat,Reverse Strike,Sweep,Weapon Arm,7,5,Thunder,Roc's Fa jin Reverse Strike
+Weapon,Canne de combat,Croisé,Strike,Weapon Arm,9,9,Fire,Dragon's Snap Croisé
+Weapon,Canne de combat,Coup Latéral,Strike,Weapon Arm,9,8,Lightning,Mindflayer's Block Coup Latéral
+Weapon,Nguni stick-fighting,Upper Cut Swing,Parry,Weapon Arm,6,7,Thunder,Beholder's Sweep Upper Cut Swing
+Weapon,Nguni stick-fighting,Backstep Smash,Sweep,Weapon Arm,8,4,Thunder,Roc's Pow Backstep Smash
+Weapon,Nguni stick-fighting,Shield Tap,Strike,Weapon Arm,8,4,Lightning,Wyvern's Grapple Shield Tap
+Weapon,Nguni stick-fighting,Upper Cut Swing,Thrust,Weapon Arm,5,9,Thunder,Roc's Grapple Upper Cut Swing
+Weapon,Nguni stick-fighting,Downward Crack,Sweep,Weapon Arm,7,4,Lightning,Hydra's Volley Downward Crack
+Weapon,Nguni stick-fighting,Leg Feint,Strike,Weapon Arm,6,8,Fire,Dragon's Wham Leg Feint
+Weapon,Nguni stick-fighting,Shield Tap,Sweep,Weapon Arm,7,6,Lightning,Gorgon's Thud Shield Tap
+Weapon,Nguni stick-fighting,Shield Tap,Strike,Weapon Arm,8,8,Cold,Beholder's Parry Shield Tap
+Weapon,Nguni stick-fighting,Upper Cut Swing,Parry,Weapon Arm,7,10,Fire,Beholder's Wham Upper Cut Swing
+Weapon,Nguni stick-fighting,Upper Cut Swing,Sweep,Weapon Arm,10,6,Cold,Gorgon's Drive Upper Cut Swing
+Weapon,Escrima,Redonda,Sweep,Weapon Arm,4,9,Fire,Dragon's Tenkan Redonda
+Weapon,Escrima,Sinawali,Thrust,Weapon Arm,8,9,Acid,Mindflayer's Maul Sinawali
+Weapon,Escrima,Florete,Parry,Weapon Arm,10,9,Acid,Hydra's Uppercut Florete
+Weapon,Escrima,Striking Pattern 1,Strike,Weapon Arm,9,6,Acid,Beholder's Smash Striking Pattern 1
+Weapon,Escrima,Florete,Strike,Weapon Arm,7,5,Cold,Wyvern's Bite Florete
+Weapon,Escrima,Sinawali,Thrust,Weapon Arm,6,9,Lightning,Hydra's Stagger Sinawali
+Weapon,Escrima,Abanico,Sweep,Weapon Arm,10,7,Thunder,Hydra's Drive Abanico
+Weapon,Escrima,Florete,Strike,Weapon Arm,10,4,Cold,Chimera's Kuzushi Florete
+Weapon,Escrima,Redonda,Thrust,Weapon Arm,6,7,Cold,Beholder's Uppercut Redonda
+Weapon,Escrima,Florete,Sweep,Weapon Arm,10,4,Thunder,Mindflayer's Juke Florete
+Weapon,Bataireacht,Low Sweep,Sweep,Weapon Arm,7,10,Cold,Dragon's Combo Low Sweep
+Weapon,Bataireacht,Guard Break,Thrust,Weapon Arm,9,9,Acid,Dragon's Block Guard Break
+Weapon,Bataireacht,Low Sweep,Sweep,Weapon Arm,7,6,Acid,Hydra's Bam Low Sweep
+Weapon,Bataireacht,Overhead Strike,Parry,Weapon Arm,6,10,Lightning,Wyvern's Kiai Overhead Strike
+Weapon,Bataireacht,Guard Break,Parry,Weapon Arm,5,5,Acid,Mindflayer's Zanshin Guard Break
+Weapon,Bataireacht,Tip Thrust,Parry,Weapon Arm,6,4,Fire,Beholder's Snap Tip Thrust
+Weapon,Bataireacht,Low Sweep,Thrust,Weapon Arm,10,5,Cold,Basilisk's Pounce Low Sweep
+Weapon,Bataireacht,Low Sweep,Strike,Weapon Arm,9,7,Lightning,Mindflayer's Tenkan Low Sweep
+Weapon,Bataireacht,Low Sweep,Parry,Weapon Arm,10,10,Thunder,Gorgon's Sting Low Sweep
+Weapon,Bataireacht,Overhead Strike,Sweep,Weapon Arm,9,10,Cold,Basilisk's Block Overhead Strike
+Weapon,Jogo do Pau,Shield Break,Strike,Weapon Arm,9,8,Lightning,Wyvern's Tackle Shield Break
+Weapon,Jogo do Pau,Shield Break,Sweep,Weapon Arm,10,4,Acid,Chimera's Smother Shield Break
+Weapon,Jogo do Pau,Vertical Smash,Parry,Weapon Arm,10,5,Cold,Wyvern's Smother Vertical Smash
+Weapon,Jogo do Pau,Pointed Jab,Thrust,Weapon Arm,9,4,Lightning,Roc's Check Pointed Jab
+Weapon,Jogo do Pau,Lateral Strike,Thrust,Weapon Arm,9,6,Cold,Mindflayer's Fa jin Lateral Strike
+Weapon,Jogo do Pau,Pointed Jab,Strike,Weapon Arm,5,10,Cold,Hydra's Pow Pointed Jab
+Weapon,Jogo do Pau,Shield Break,Parry,Weapon Arm,8,8,Acid,Basilisk's Slug Shield Break
+Weapon,Jogo do Pau,Vertical Smash,Strike,Weapon Arm,8,6,Cold,Wyvern's Block Vertical Smash
+Weapon,Jogo do Pau,Shield Break,Sweep,Weapon Arm,4,5,Thunder,Mindflayer's Pounce Shield Break
+Weapon,Jogo do Pau,Lateral Strike,Parry,Weapon Arm,7,5,Lightning,Roc's Combo Lateral Strike
+Grappling,Ringen,Bear Hug,Shoulder Lock,Full Body,10,5,Cold,Dragon's Takedown Bear Hug
+Grappling,Ringen,Foot Hook,Suplex,Full Body,9,7,Acid,Hydra's Swipe Foot Hook
+Grappling,Ringen,Bear Hug,Shoulder Lock,Full Body,5,4,Fire,Kraken's Pitch Bear Hug
+Grappling,Ringen,Back Press,Leg Takedown,Full Body,8,8,Thunder,Roc's Fa jin Back Press
+Grappling,Ringen,Back Press,Leg Takedown,Full Body,10,10,Lightning,Chimera's Sting Back Press
+Grappling,Ringen,Bear Hug,Leg Takedown,Full Body,10,6,Lightning,Kraken's Maul Bear Hug
+Grappling,Ringen,Arm Wrench,Arm Drag,Full Body,8,10,Lightning,Chimera's Riposte Arm Wrench
+Grappling,Ringen,Hip Twist,Hip Throw,Full Body,5,10,Cold,Chimera's Pounce Hip Twist
+Grappling,Ringen,Back Press,Arm Drag,Full Body,9,7,Cold,Kraken's Takedown Back Press
+Grappling,Ringen,Hip Twist,Hip Throw,Full Body,7,10,Thunder,Roc's Uppercut Hip Twist
+Grappling,Sumo,Tachiai,Shoulder Lock,Full Body,6,6,Cold,Gorgon's Combo Tachiai
+Grappling,Sumo,Yorikiri,Suplex,Full Body,5,8,Acid,Hydra's Slash Yorikiri
+Grappling,Sumo,Tachiai,Arm Drag,Full Body,5,10,Acid,Roc's Pow Tachiai
+Grappling,Sumo,Shitatenage,Suplex,Full Body,5,6,Cold,Roc's Pow Shitatenage
+Grappling,Sumo,Uwatenage,Shoulder Lock,Full Body,5,10,Cold,Mindflayer's Chin Shot Uwatenage
+Grappling,Sumo,Tachiai,Suplex,Full Body,6,9,Thunder,Wyvern's Bite Tachiai
+Grappling,Sumo,Uwatenage,Shoulder Lock,Full Body,7,6,Acid,Kraken's Haymaker Uwatenage
+Grappling,Sumo,Shitatenage,Suplex,Full Body,5,10,Acid,Kraken's Tenkan Shitatenage
+Grappling,Sumo,Yorikiri,Suplex,Full Body,4,10,Fire,Gorgon's Smother Yorikiri
+Grappling,Sumo,Yorikiri,Leg Takedown,Full Body,10,10,Lightning,Gorgon's Kiai Yorikiri
+Grappling,Pankration,Neck Lock,Leg Takedown,Full Body,4,7,Cold,Beholder's Hook Neck Lock
+Grappling,Pankration,Eye Jab,Leg Takedown,Full Body,7,9,Fire,Gorgon's Bam Eye Jab
+Grappling,Pankration,Neck Lock,Hip Throw,Full Body,9,4,Thunder,Chimera's Crush Neck Lock
+Grappling,Pankration,Heel Smash,Shoulder Lock,Full Body,6,7,Lightning,Mindflayer's Grapple Heel Smash
+Grappling,Pankration,Neck Lock,Leg Takedown,Full Body,5,6,Lightning,Roc's Swipe Neck Lock
+Grappling,Pankration,Groin Grab,Arm Drag,Full Body,6,5,Fire,Dragon's Feint Groin Grab
+Grappling,Pankration,Eye Jab,Arm Drag,Full Body,8,8,Fire,Chimera's Chi Burst Eye Jab
+Grappling,Pankration,Flying Knee,Arm Drag,Full Body,7,10,Acid,Kraken's Fang Flying Knee
+Grappling,Pankration,Flying Knee,Arm Drag,Full Body,6,6,Acid,Wyvern's Tackle Flying Knee
+Grappling,Pankration,Groin Grab,Shoulder Lock,Full Body,7,10,Thunder,Dragon's Pitch Groin Grab
+Grappling,Lucha Canaria,Lower Pull,Leg Takedown,Full Body,7,9,Thunder,Basilisk's Chin Shot Lower Pull
+Grappling,Lucha Canaria,Trip Throw,Arm Drag,Full Body,10,5,Thunder,Mindflayer's Clang Trip Throw
+Grappling,Lucha Canaria,Inside Hook,Leg Takedown,Full Body,10,9,Fire,Dragon's Volley Inside Hook
+Grappling,Lucha Canaria,Inside Hook,Arm Drag,Full Body,10,5,Fire,Gorgon's Wham Inside Hook
+Grappling,Lucha Canaria,Trip Throw,Hip Throw,Full Body,10,5,Thunder,Roc's Volley Trip Throw
+Grappling,Lucha Canaria,Trip Throw,Arm Drag,Full Body,4,4,Thunder,Hydra's Tenkan Trip Throw
+Grappling,Lucha Canaria,Shoulder Heave,Suplex,Full Body,5,4,Thunder,Kraken's Counter Shoulder Heave
+Grappling,Lucha Canaria,Shoulder Heave,Hip Throw,Full Body,5,4,Thunder,Roc's Crush Shoulder Heave
+Grappling,Lucha Canaria,Shoulder Heave,Suplex,Full Body,4,7,Fire,Wyvern's Crush Shoulder Heave
+Grappling,Lucha Canaria,Shoulder Heave,Leg Takedown,Full Body,9,8,Acid,Gorgon's Chin Shot Shoulder Heave
+Grappling,Schwingen,Swing Toss,Arm Drag,Full Body,8,10,Acid,Mindflayer's Pow Swing Toss
+Grappling,Schwingen,Chest Lock,Hip Throw,Full Body,7,6,Acid,Kraken's Juke Chest Lock
+Grappling,Schwingen,Swing Toss,Suplex,Full Body,8,9,Fire,Hydra's Pitch Swing Toss
+Grappling,Schwingen,Swing Toss,Arm Drag,Full Body,6,4,Lightning,Hydra's Riposte Swing Toss
+Grappling,Schwingen,Chest Lock,Hip Throw,Full Body,4,4,Thunder,Gorgon's Tenkan Chest Lock
+Grappling,Schwingen,Leg Pull,Suplex,Full Body,10,7,Cold,Mindflayer's Whoosh Leg Pull
+Grappling,Schwingen,Swing Toss,Shoulder Lock,Full Body,8,9,Fire,Basilisk's Hook Swing Toss
+Grappling,Schwingen,Hook Lift,Arm Drag,Full Body,9,10,Acid,Hydra's Kuzushi Hook Lift
+Grappling,Schwingen,Swing Toss,Hip Throw,Full Body,7,8,Fire,Beholder's Takedown Swing Toss
+Grappling,Schwingen,Swing Toss,Arm Drag,Full Body,10,5,Lightning,Basilisk's Combo Swing Toss
+Grappling,WWE wrestling,Suplex,Arm Drag,Full Body,6,9,Thunder,Wyvern's Haymaker Suplex
+Grappling,WWE wrestling,Clothesline,Suplex,Full Body,7,6,Lightning,Mindflayer's Grapple Clothesline
+Grappling,WWE wrestling,DDT,Suplex,Full Body,8,6,Fire,Wyvern's Snap DDT
+Grappling,WWE wrestling,Dropkick,Arm Drag,Full Body,10,10,Cold,Chimera's Grapple Dropkick
+Grappling,WWE wrestling,DDT,Shoulder Lock,Full Body,10,4,Lightning,Roc's Haymaker DDT
+Grappling,WWE wrestling,Powerbomb,Arm Drag,Full Body,7,5,Acid,Mindflayer's Feint Powerbomb
+Grappling,WWE wrestling,Dropkick,Hip Throw,Full Body,6,9,Thunder,Hydra's Maul Dropkick
+Grappling,WWE wrestling,Clothesline,Suplex,Full Body,4,7,Cold,Wyvern's Sweep Clothesline
+Grappling,WWE wrestling,Powerbomb,Leg Takedown,Full Body,8,4,Lightning,Mindflayer's Smash Powerbomb
+Grappling,WWE wrestling,Powerbomb,Leg Takedown,Full Body,9,10,Acid,Kraken's Smash Powerbomb
+Unarmed,Krav Maga,Hammerfist,Uppercut,Elbow,10,4,Thunder,Roc's Bam Hammerfist
+Unarmed,Krav Maga,Hammerfist,Leg Takedown,Knee,9,6,Acid,Gorgon's Sting Hammerfist
+Unarmed,Krav Maga,Hammerfist,Hook,Fist,4,4,Acid,Basilisk's Clang Hammerfist
+Unarmed,Krav Maga,Elbow Strike,Straight Knee,Foot,5,4,Acid,Beholder's Smash Elbow Strike
+Unarmed,Krav Maga,Palm Strike,Side Kick,Head,5,10,Thunder,Mindflayer's Snap Palm Strike
+Unarmed,Krav Maga,Choke Break,Horizontal Elbow,Knee,10,4,Lightning,Hydra's Wham Choke Break
+Unarmed,Krav Maga,Elbow Strike,Hook,Head,6,6,Cold,Kraken's Takedown Elbow Strike
+Unarmed,Krav Maga,Hammerfist,Side Knee,Fist,6,5,Acid,Roc's Volley Hammerfist
+Unarmed,Krav Maga,Hammerfist,Leg Takedown,Forearm,7,8,Acid,Basilisk's Whoosh Hammerfist
+Unarmed,Krav Maga,Hammerfist,Horizontal Elbow,Fist,10,6,Cold,Basilisk's Breaker Hammerfist
+Unarmed,Jiu-Jitsu,Rear Naked Choke,Flying Knee,Forearm,9,4,Cold,Wyvern's Pow Rear Naked Choke
+Unarmed,Jiu-Jitsu,Armbar,Leg Takedown,Fist,4,9,Lightning,Wyvern's Thud Armbar
+Unarmed,Jiu-Jitsu,Guard Pass,Straight Knee,Head,9,10,Thunder,Basilisk's Haymaker Guard Pass
+Unarmed,Jiu-Jitsu,Armbar,Back Kick,Palm,9,6,Cold,Roc's Slug Armbar
+Unarmed,Jiu-Jitsu,Triangle Choke,Jab,Elbow,7,6,Fire,Kraken's Uppercut Triangle Choke
+Unarmed,Jiu-Jitsu,Armbar,Straight Knee,Fist,7,10,Cold,Basilisk's Breaker Armbar
+Unarmed,Jiu-Jitsu,Mount Escape,Spinning Elbow,Shoulder,4,9,Fire,Beholder's Wham Mount Escape
+Unarmed,Jiu-Jitsu,Guard Pass,Side Kick,Foot,8,4,Lightning,Hydra's Breaker Guard Pass
+Unarmed,Jiu-Jitsu,Rear Naked Choke,Flying Knee,Elbow,9,5,Thunder,Kraken's Parry Rear Naked Choke
+Unarmed,Jiu-Jitsu,Mount Escape,Side Knee,Palm,9,9,Acid,Basilisk's Rake Mount Escape
+Unarmed,Capoeira,Armada,Arm Drag,Forearm,8,10,Lightning,Chimera's Breaker Armada
+Unarmed,Capoeira,Au Batido,Uppercut,Palm,4,8,Cold,Hydra's Feint Au Batido
+Unarmed,Capoeira,Au Batido,Axe Kick,Knee,9,4,Cold,Chimera's Zanshin Au Batido
+Unarmed,Capoeira,Meia Lua,Downward Elbow,Palm,5,10,Acid,Hydra's Swipe Meia Lua
+Unarmed,Capoeira,Rabo de Arraia,Suplex,Shoulder,10,4,Lightning,Dragon's Hook Rabo de Arraia
+Unarmed,Capoeira,Au Batido,Side Kick,Forearm,8,8,Fire,Dragon's Sting Au Batido
+Unarmed,Capoeira,Rabo de Arraia,Spinning Elbow,Palm,8,9,Thunder,Dragon's Hook Rabo de Arraia
+Unarmed,Capoeira,Armada,Downward Elbow,Fist,6,7,Fire,Chimera's Fa jin Armada
+Unarmed,Capoeira,Meia Lua,Suplex,Palm,6,9,Fire,Basilisk's Claw Meia Lua
+Unarmed,Capoeira,Negativa,Horizontal Elbow,Forearm,7,6,Thunder,Chimera's Chin Shot Negativa
+Unarmed,Boxing,Cross,Overhand,Shoulder,5,6,Thunder,Kraken's Zanshin Cross
+Unarmed,Boxing,Uppercut,Horizontal Elbow,Fist,9,10,Cold,Kraken's Stagger Uppercut
+Unarmed,Boxing,Jab,Side Knee,Forearm,4,7,Acid,Basilisk's Tackle Jab
+Unarmed,Boxing,Hook,Flying Knee,Palm,7,10,Acid,Chimera's Takedown Hook
+Unarmed,Boxing,Cross,Shoulder Lock,Shoulder,8,4,Lightning,Mindflayer's Takedown Cross
+Unarmed,Boxing,Hook,Uppercut,Knee,9,5,Acid,Chimera's Zap Hook
+Unarmed,Boxing,Hook,Overhand,Palm,10,8,Fire,Gorgon's Counter Hook
+Unarmed,Boxing,Cross,Cross,Shoulder,4,7,Fire,Beholder's Kuzushi Cross
+Unarmed,Boxing,Hook,Flying Knee,Fist,5,5,Cold,Dragon's Bite Hook
+Unarmed,Boxing,Overhand,Flying Knee,Palm,6,6,Fire,Gorgon's Feint Overhand
+Unarmed,Muay Thai,Knee Strike,Flying Knee,Head,6,5,Thunder,Beholder's Wham Knee Strike
+Unarmed,Muay Thai,Clinch Knee,Cross,Fist,5,6,Thunder,Basilisk's Uppercut Clinch Knee
+Unarmed,Muay Thai,Teep,Side Kick,Palm,9,6,Fire,Mindflayer's Tackle Teep
+Unarmed,Muay Thai,Elbow Slash,Flying Knee,Forearm,6,7,Fire,Mindflayer's Maul Elbow Slash
+Unarmed,Muay Thai,Round Kick,Straight Knee,Knee,8,7,Acid,Mindflayer's Haymaker Round Kick
+Unarmed,Muay Thai,Teep,Leg Takedown,Palm,6,6,Fire,Roc's Thud Teep
+Unarmed,Muay Thai,Teep,Jab,Knee,9,4,Cold,Kraken's Pounce Teep
+Unarmed,Muay Thai,Teep,Horizontal Elbow,Knee,9,10,Thunder,Wyvern's Hook Teep
+Unarmed,Muay Thai,Clinch Knee,Downward Elbow,Knee,9,7,Thunder,Mindflayer's Juke Clinch Knee
+Unarmed,Muay Thai,Teep,Jab,Foot,6,8,Cold,Wyvern's Combo Teep
+Unarmed,Sambo,Leg Lock,Cross,Forearm,4,7,Acid,Hydra's Claw Leg Lock
+Unarmed,Sambo,Leg Lock,Horizontal Elbow,Forearm,10,5,Lightning,Roc's Block Leg Lock
+Unarmed,Sambo,Hip Throw,Straight Knee,Forearm,9,10,Acid,Chimera's Kiai Hip Throw
+Unarmed,Sambo,Arm Trap,Side Knee,Foot,10,4,Thunder,Basilisk's Crush Arm Trap
+Unarmed,Sambo,Leg Lock,Flying Knee,Head,5,5,Acid,Gorgon's Crack Leg Lock
+Unarmed,Sambo,Arm Trap,Flying Knee,Head,5,8,Fire,Hydra's Uppercut Arm Trap
+Unarmed,Sambo,Leg Lock,Spinning Elbow,Head,8,10,Thunder,Basilisk's Pounce Leg Lock
+Unarmed,Sambo,Hip Throw,Side Knee,Palm,8,4,Acid,Roc's Whoosh Hip Throw
+Unarmed,Sambo,Arm Trap,Spinning Elbow,Elbow,9,4,Lightning,Roc's Pow Arm Trap
+Unarmed,Sambo,Body Lock,Hook,Knee,8,5,Fire,Dragon's Juke Body Lock
+Unarmed,Savate,Chassé,Straight Knee,Fist,10,5,Acid,Beholder's Ram Chassé
+Unarmed,Savate,Chambrière,Front Kick,Foot,10,5,Acid,Dragon's Crush Chambrière
+Unarmed,Savate,Fouetté,Side Kick,Foot,6,7,Acid,Dragon's Smother Fouetté
+Unarmed,Savate,Revers,Jab,Fist,9,5,Thunder,Kraken's Kuzushi Revers
+Unarmed,Savate,Revers,Front Kick,Elbow,5,5,Thunder,Kraken's Stagger Revers
+Unarmed,Savate,Fouetté,Downward Elbow,Knee,4,6,Cold,Mindflayer's Ram Fouetté
+Unarmed,Savate,Revers,Flying Knee,Head,6,10,Lightning,Chimera's Takedown Revers
+Unarmed,Savate,Fouetté,Axe Kick,Palm,6,8,Lightning,Kraken's Riposte Fouetté
+Unarmed,Savate,Chambrière,Back Kick,Elbow,10,10,Thunder,Beholder's Smash Chambrière
+Unarmed,Savate,Fouetté,Axe Kick,Forearm,7,6,Thunder,Hydra's Crush Fouetté
+Unarmed,Hapkido,Side Kick,Cross,Palm,5,8,Thunder,Kraken's Hook Side Kick
+Unarmed,Hapkido,Wrist Lock,Side Knee,Forearm,4,9,Thunder,Mindflayer's Fa jin Wrist Lock
+Unarmed,Hapkido,Side Kick,Downward Elbow,Elbow,4,6,Cold,Dragon's Wham Side Kick
+Unarmed,Hapkido,Pressure Point Strike,Cross,Head,7,7,Acid,Gorgon's Zap Pressure Point Strike
+Unarmed,Hapkido,Spin Kick,Downward Elbow,Elbow,7,6,Lightning,Wyvern's Wham Spin Kick
+Unarmed,Hapkido,Spin Kick,Leg Takedown,Fist,5,7,Cold,Basilisk's Breaker Spin Kick
+Unarmed,Hapkido,Spin Kick,Front Kick,Shoulder,5,6,Thunder,Beholder's Sweep Spin Kick
+Unarmed,Hapkido,Spin Kick,Horizontal Elbow,Palm,8,6,Lightning,Kraken's Smash Spin Kick
+Unarmed,Hapkido,Side Kick,Jab,Knee,10,8,Cold,Wyvern's Feint Side Kick
+Unarmed,Hapkido,Spin Kick,Spinning Elbow,Forearm,5,4,Lightning,Wyvern's Chin Shot Spin Kick
+Unarmed,Taekwondo,Spinning Kick,Suplex,Palm,4,4,Lightning,Wyvern's Crack Spinning Kick
+Unarmed,Taekwondo,Spinning Kick,Spinning Elbow,Fist,7,8,Thunder,Gorgon's Takedown Spinning Kick
+Unarmed,Taekwondo,Hook Kick,Roundhouse,Palm,5,4,Cold,Hydra's Fang Hook Kick
+Unarmed,Taekwondo,Back Kick,Downward Elbow,Forearm,9,10,Acid,Dragon's Snap Back Kick
+Unarmed,Taekwondo,Hook Kick,Overhand,Foot,9,10,Thunder,Dragon's Uppercut Hook Kick
+Unarmed,Taekwondo,Axe Kick,Jab,Shoulder,9,10,Lightning,Mindflayer's Juke Axe Kick
+Unarmed,Taekwondo,Roundhouse Kick,Straight Knee,Foot,4,4,Cold,Kraken's Block Roundhouse Kick
+Unarmed,Taekwondo,Back Kick,Side Kick,Palm,6,10,Cold,Chimera's Whoosh Back Kick
+Unarmed,Taekwondo,Back Kick,Side Knee,Head,8,6,Lightning,Basilisk's Combo Back Kick
+Unarmed,Taekwondo,Axe Kick,Front Kick,Head,7,10,Cold,Chimera's Juke Axe Kick
+Unarmed,Shaolin Kung Fu,Whirlwind Kick,Downward Elbow,Fist,6,7,Lightning,Wyvern's Smother Whirlwind Kick
+Unarmed,Shaolin Kung Fu,Leaping Punch,Cross,Fist,10,6,Fire,Roc's Grapple Leaping Punch
+Unarmed,Shaolin Kung Fu,Monkey Palm,Straight Knee,Head,4,10,Acid,Dragon's Snap Monkey Palm
+Unarmed,Shaolin Kung Fu,Tiger Claw,Front Kick,Head,4,6,Thunder,Dragon's Kiai Tiger Claw
+Unarmed,Shaolin Kung Fu,Eagle Strike,Axe Kick,Foot,7,6,Fire,Roc's Slash Eagle Strike
+Unarmed,Shaolin Kung Fu,Tiger Claw,Downward Elbow,Forearm,8,8,Fire,Roc's Tackle Tiger Claw
+Unarmed,Shaolin Kung Fu,Whirlwind Kick,Flying Knee,Fist,6,6,Acid,Gorgon's Tenkan Whirlwind Kick
+Unarmed,Shaolin Kung Fu,Whirlwind Kick,Straight Knee,Head,7,5,Lightning,Kraken's Clang Whirlwind Kick
+Unarmed,Shaolin Kung Fu,Whirlwind Kick,Overhand,Elbow,10,5,Fire,Kraken's Chin Shot Whirlwind Kick
+Unarmed,Shaolin Kung Fu,Eagle Strike,Overhand,Knee,8,4,Fire,Gorgon's Block Eagle Strike
+Unarmed,Drunk Wu Tang,Elbow Roll,Downward Elbow,Knee,10,9,Fire,Wyvern's Whoosh Elbow Roll
+Unarmed,Drunk Wu Tang,Rolling Uppercut,Horizontal Elbow,Palm,6,4,Fire,Kraken's Crack Rolling Uppercut
+Unarmed,Drunk Wu Tang,Wu Tang Whirl,Side Knee,Knee,5,10,Thunder,Kraken's Crush Wu Tang Whirl
+Unarmed,Drunk Wu Tang,Whiskey Strike,Overhand,Head,9,8,Fire,Hydra's Rake Whiskey Strike
+Unarmed,Drunk Wu Tang,Rolling Uppercut,Leg Takedown,Shoulder,6,6,Thunder,Basilisk's Snap Rolling Uppercut
+Unarmed,Drunk Wu Tang,Whiskey Strike,Axe Kick,Knee,5,9,Thunder,Gorgon's Maul Whiskey Strike
+Unarmed,Drunk Wu Tang,Rolling Uppercut,Horizontal Elbow,Head,9,4,Acid,Hydra's Sting Rolling Uppercut
+Unarmed,Drunk Wu Tang,Stumble Kick,Flying Knee,Shoulder,7,4,Thunder,Wyvern's Sweep Stumble Kick
+Unarmed,Drunk Wu Tang,Elbow Roll,Shoulder Lock,Shoulder,9,4,Thunder,Roc's Chi Burst Elbow Roll
+Unarmed,Drunk Wu Tang,Elbow Roll,Straight Knee,Shoulder,5,10,Lightning,Chimera's Volley Elbow Roll
+Unarmed,Drunken Mantis,Slip Backfist,Suplex,Shoulder,6,4,Acid,Mindflayer's Drive Slip Backfist
+Unarmed,Drunken Mantis,Flick Kick,Horizontal Elbow,Elbow,5,8,Fire,Chimera's Clang Flick Kick
+Unarmed,Drunken Mantis,Staggering Hook,Front Kick,Forearm,7,6,Cold,Kraken's Hook Staggering Hook
+Unarmed,Drunken Mantis,Flick Kick,Horizontal Elbow,Palm,9,4,Cold,Chimera's Pow Flick Kick
+Unarmed,Drunken Mantis,Drunken Jab,Uppercut,Palm,6,6,Fire,Chimera's Block Drunken Jab
+Unarmed,Drunken Mantis,Staggering Hook,Horizontal Elbow,Foot,9,5,Lightning,Roc's Smash Staggering Hook
+Unarmed,Drunken Mantis,Staggering Hook,Jab,Knee,7,10,Thunder,Wyvern's Crack Staggering Hook
+Unarmed,Drunken Mantis,Flick Kick,Horizontal Elbow,Head,6,4,Thunder,Wyvern's Chi Burst Flick Kick
+Unarmed,Drunken Mantis,Flick Kick,Jab,Knee,4,7,Cold,Basilisk's Uppercut Flick Kick
+Unarmed,Drunken Mantis,Slip Backfist,Side Knee,Shoulder,4,4,Thunder,Mindflayer's Maul Slip Backfist
+Unarmed,Drunken Monkey,Drunken Elbow,Hook,Fist,8,5,Fire,Basilisk's Slug Drunken Elbow
+Unarmed,Drunken Monkey,Rolling Backfist,Leg Takedown,Shoulder,10,5,Fire,Chimera's Crush Rolling Backfist
+Unarmed,Drunken Monkey,Rolling Backfist,Cross,Elbow,4,8,Fire,Mindflayer's Riposte Rolling Backfist
+Unarmed,Drunken Monkey,Drunken Elbow,Uppercut,Elbow,8,4,Cold,Roc's Fang Drunken Elbow
+Unarmed,Drunken Monkey,Wobble Palm,Roundhouse,Forearm,5,4,Acid,Roc's Riposte Wobble Palm
+Unarmed,Drunken Monkey,Sway Punch,Shoulder Lock,Head,7,6,Fire,Kraken's Chin Shot Sway Punch
+Unarmed,Drunken Monkey,Rolling Backfist,Spinning Elbow,Knee,6,5,Thunder,Chimera's Tenkan Rolling Backfist
+Unarmed,Drunken Monkey,Sway Punch,Spinning Elbow,Shoulder,6,10,Acid,Roc's Hook Sway Punch
+Unarmed,Drunken Monkey,Monkey Swing,Flying Knee,Foot,8,8,Cold,Dragon's Block Monkey Swing
+Unarmed,Drunken Monkey,Sway Punch,Spinning Elbow,Palm,7,4,Lightning,Roc's Tackle Sway Punch
+Unarmed,Aikido,Tenkan Throw,Uppercut,Palm,4,8,Thunder,Dragon's Smother Tenkan Throw
+Unarmed,Aikido,Shiho Nage,Jab,Elbow,4,10,Acid,Beholder's Clang Shiho Nage
+Unarmed,Aikido,Irimi Nage,Hip Throw,Palm,5,9,Fire,Chimera's Parry Irimi Nage
+Unarmed,Aikido,Shiho Nage,Hook,Elbow,4,8,Acid,Kraken's Maul Shiho Nage
+Unarmed,Aikido,Kote Gaeshi,Overhand,Shoulder,4,5,Fire,Beholder's Ram Kote Gaeshi
+Unarmed,Aikido,Irimi Nage,Downward Elbow,Shoulder,9,8,Cold,Dragon's Breaker Irimi Nage
+Unarmed,Aikido,Irimi Nage,Flying Knee,Head,8,9,Fire,Wyvern's Tenkan Irimi Nage
+Unarmed,Aikido,Irimi Nage,Side Knee,Forearm,5,9,Fire,Kraken's Whoosh Irimi Nage
+Unarmed,Aikido,Irimi Nage,Hip Throw,Forearm,9,5,Fire,Kraken's Zap Irimi Nage
+Unarmed,Aikido,Irimi Nage,Side Kick,Knee,5,8,Fire,Basilisk's Smash Irimi Nage
+Unarmed,Judo,Osoto Gari,Flying Knee,Palm,4,8,Fire,Mindflayer's Crush Osoto Gari
+Unarmed,Judo,Seoi Nage,Horizontal Elbow,Forearm,10,4,Cold,Kraken's Claw Seoi Nage
+Unarmed,Judo,Osoto Gari,Arm Drag,Forearm,5,6,Cold,Hydra's Takedown Osoto Gari
+Unarmed,Judo,Osoto Gari,Overhand,Palm,6,9,Thunder,Hydra's Chin Shot Osoto Gari
+Unarmed,Judo,O Goshi,Axe Kick,Knee,6,5,Lightning,Roc's Clang O Goshi
+Unarmed,Judo,Uchi Mata,Roundhouse,Foot,10,6,Thunder,Gorgon's Rake Uchi Mata
+Unarmed,Judo,Osoto Gari,Suplex,Shoulder,6,4,Acid,Kraken's Riposte Osoto Gari
+Unarmed,Judo,Uchi Mata,Downward Elbow,Elbow,7,7,Fire,Hydra's Zanshin Uchi Mata
+Unarmed,Judo,Osoto Gari,Flying Knee,Head,5,10,Thunder,Beholder's Block Osoto Gari
+Unarmed,Judo,O Goshi,Cross,Foot,6,9,Thunder,Wyvern's Maul O Goshi
+Unarmed,Jeet Kune Do,Side Kick,Straight Knee,Knee,5,4,Fire,Gorgon's Pounce Side Kick
+Unarmed,Jeet Kune Do,Side Kick,Back Kick,Knee,7,8,Acid,Dragon's Pitch Side Kick
+Unarmed,Jeet Kune Do,Backfist,Arm Drag,Knee,4,7,Acid,Hydra's Combo Backfist
+Unarmed,Jeet Kune Do,Low Kick,Roundhouse,Palm,5,4,Thunder,Basilisk's Slug Low Kick
+Unarmed,Jeet Kune Do,Low Kick,Arm Drag,Knee,7,8,Thunder,Chimera's Smother Low Kick
+Unarmed,Jeet Kune Do,Backfist,Straight Knee,Fist,8,10,Lightning,Roc's Juke Backfist
+Unarmed,Jeet Kune Do,Backfist,Downward Elbow,Head,8,6,Acid,Hydra's Maul Backfist
+Unarmed,Jeet Kune Do,Low Kick,Hip Throw,Shoulder,6,5,Cold,Roc's Crack Low Kick
+Unarmed,Jeet Kune Do,Side Kick,Uppercut,Head,8,9,Fire,Mindflayer's Tenkan Side Kick
+Unarmed,Jeet Kune Do,Backfist,Uppercut,Head,8,8,Lightning,Wyvern's Slug Backfist
+Unarmed,Wing Chun,Chain Punch,Straight Knee,Foot,9,10,Fire,Roc's Bite Chain Punch
+Unarmed,Wing Chun,Chain Punch,Flying Knee,Palm,9,7,Cold,Beholder's Stagger Chain Punch
+Unarmed,Wing Chun,Tan Sau,Roundhouse,Forearm,9,6,Acid,Hydra's Breaker Tan Sau
+Unarmed,Wing Chun,Chain Punch,Side Knee,Knee,5,8,Acid,Wyvern's Slug Chain Punch
+Unarmed,Wing Chun,Chain Punch,Spinning Elbow,Foot,5,8,Fire,Beholder's Zanshin Chain Punch
+Unarmed,Wing Chun,Lap Sau,Back Kick,Palm,4,4,Lightning,Gorgon's Block Lap Sau
+Unarmed,Wing Chun,Lap Sau,Leg Takedown,Palm,6,8,Lightning,Dragon's Zanshin Lap Sau
+Unarmed,Wing Chun,Bong Sau,Jab,Foot,6,7,Cold,Hydra's Feint Bong Sau
+Unarmed,Wing Chun,Pak Sau,Jab,Foot,4,8,Thunder,Hydra's Pounce Pak Sau
+Unarmed,Wing Chun,Bong Sau,Downward Elbow,Head,10,5,Thunder,Basilisk's Kiai Bong Sau
+Unarmed,Ninjutsu,Shadow Kick,Shoulder Lock,Shoulder,5,9,Lightning,Gorgon's Snap Shadow Kick
+Unarmed,Ninjutsu,Throwing Strike,Downward Elbow,Knee,7,8,Cold,Dragon's Slug Throwing Strike
+Unarmed,Ninjutsu,Shuto,Spinning Elbow,Fist,6,9,Lightning,Wyvern's Parry Shuto
+Unarmed,Ninjutsu,Silent Step,Side Knee,Forearm,7,8,Fire,Wyvern's Grapple Silent Step
+Unarmed,Ninjutsu,Silent Step,Back Kick,Elbow,8,6,Fire,Dragon's Breaker Silent Step
+Unarmed,Ninjutsu,Throwing Strike,Roundhouse,Foot,8,4,Fire,Gorgon's Haymaker Throwing Strike
+Unarmed,Ninjutsu,Silent Step,Downward Elbow,Forearm,8,10,Thunder,Chimera's Crush Silent Step
+Unarmed,Ninjutsu,Shadow Kick,Flying Knee,Palm,9,9,Cold,Mindflayer's Ram Shadow Kick
+Unarmed,Ninjutsu,Shadow Kick,Hook,Palm,4,6,Acid,Beholder's Riposte Shadow Kick
+Unarmed,Ninjutsu,Shadow Kick,Leg Takedown,Shoulder,10,9,Acid,Beholder's Combo Shadow Kick
+Unarmed,Tang Soo Do,Inverted Punch,Straight Knee,Elbow,6,7,Cold,Mindflayer's Swipe Inverted Punch
+Unarmed,Tang Soo Do,Ridgehand,Leg Takedown,Head,4,6,Fire,Kraken's Maul Ridgehand
+Unarmed,Tang Soo Do,Knifehand Strike,Side Knee,Palm,9,5,Acid,Mindflayer's Pounce Knifehand Strike
+Unarmed,Tang Soo Do,Knifehand Strike,Leg Takedown,Elbow,6,4,Thunder,Chimera's Combo Knifehand Strike
+Unarmed,Tang Soo Do,Inverted Punch,Spinning Elbow,Head,4,10,Lightning,Beholder's Claw Inverted Punch
+Unarmed,Tang Soo Do,Inverted Punch,Flying Knee,Knee,10,9,Cold,Kraken's Block Inverted Punch
+Unarmed,Tang Soo Do,Ridgehand,Flying Knee,Palm,5,10,Lightning,Beholder's Clang Ridgehand
+Unarmed,Tang Soo Do,Knifehand Strike,Hip Throw,Elbow,4,8,Fire,Kraken's Check Knifehand Strike
+Unarmed,Tang Soo Do,Inverted Punch,Uppercut,Forearm,7,8,Acid,Beholder's Parry Inverted Punch
+Unarmed,Tang Soo Do,Side Kick,Back Kick,Palm,5,4,Thunder,Hydra's Pitch Side Kick
+Unarmed,Pencak Silat,Sapu,Axe Kick,Palm,5,6,Fire,Beholder's Wham Sapu
+Unarmed,Pencak Silat,Low Sweep,Shoulder Lock,Head,7,4,Lightning,Chimera's Bite Low Sweep
+Unarmed,Pencak Silat,Crescent Kick,Suplex,Palm,9,6,Cold,Wyvern's Sting Crescent Kick
+Unarmed,Pencak Silat,Sapu,Suplex,Knee,5,9,Thunder,Beholder's Zap Sapu
+Unarmed,Pencak Silat,Beset,Overhand,Shoulder,6,4,Acid,Basilisk's Haymaker Beset
+Unarmed,Pencak Silat,Beset,Shoulder Lock,Foot,9,8,Thunder,Beholder's Pounce Beset
+Unarmed,Pencak Silat,Low Sweep,Leg Takedown,Palm,7,8,Fire,Gorgon's Takedown Low Sweep
+Unarmed,Pencak Silat,Beset,Hook,Foot,6,7,Fire,Beholder's Smash Beset
+Unarmed,Pencak Silat,Elbow Smash,Straight Knee,Foot,4,5,Thunder,Basilisk's Maul Elbow Smash
+Unarmed,Pencak Silat,Elbow Smash,Horizontal Elbow,Head,4,7,Lightning,Hydra's Breaker Elbow Smash
+Unarmed,moraingy,Leaping Punch,Side Knee,Palm,5,7,Acid,Beholder's Bite Leaping Punch
+Unarmed,moraingy,High Kick,Uppercut,Head,10,10,Lightning,Beholder's Zanshin High Kick
+Unarmed,moraingy,Double Fist,Arm Drag,Fist,10,8,Acid,Wyvern's Riposte Double Fist
+Unarmed,moraingy,High Kick,Horizontal Elbow,Foot,9,10,Acid,Mindflayer's Kiai High Kick
+Unarmed,moraingy,Double Fist,Overhand,Palm,8,4,Lightning,Chimera's Volley Double Fist
+Unarmed,moraingy,High Kick,Horizontal Elbow,Knee,9,10,Thunder,Chimera's Fa jin High Kick
+Unarmed,moraingy,High Kick,Suplex,Elbow,9,9,Thunder,Mindflayer's Haymaker High Kick
+Unarmed,moraingy,Leaping Punch,Horizontal Elbow,Knee,6,4,Lightning,Basilisk's Whoosh Leaping Punch
+Unarmed,moraingy,High Kick,Side Knee,Knee,4,6,Lightning,Gorgon's Bite High Kick
+Unarmed,moraingy,High Kick,Front Kick,Foot,7,5,Lightning,Beholder's Haymaker High Kick
+Unarmed,dambe,Swing Punch,Side Knee,Forearm,9,8,Lightning,Mindflayer's Maul Swing Punch
+Unarmed,dambe,Hammer Blow,Downward Elbow,Foot,5,8,Fire,Chimera's Volley Hammer Blow
+Unarmed,dambe,One-armed Jab,Jab,Elbow,9,6,Thunder,Mindflayer's Pitch One-armed Jab
+Unarmed,dambe,Hammer Blow,Arm Drag,Fist,4,5,Fire,Gorgon's Drive Hammer Blow
+Unarmed,dambe,Body Slam,Horizontal Elbow,Fist,5,9,Thunder,Kraken's Drive Body Slam
+Unarmed,dambe,Body Slam,Straight Knee,Foot,9,9,Thunder,Hydra's Uppercut Body Slam
+Unarmed,dambe,Swing Punch,Arm Drag,Knee,6,9,Acid,Basilisk's Smother Swing Punch
+Unarmed,dambe,One-armed Jab,Overhand,Forearm,8,7,Cold,Roc's Check One-armed Jab
+Unarmed,dambe,Body Slam,Shoulder Lock,Shoulder,4,9,Lightning,Dragon's Grapple Body Slam
+Unarmed,dambe,Swing Punch,Side Knee,Fist,6,8,Acid,Chimera's Slug Swing Punch
+Unarmed,systema,Breath Punch,Front Kick,Fist,9,10,Fire,Beholder's Breaker Breath Punch
+Unarmed,systema,Breath Punch,Flying Knee,Shoulder,9,4,Cold,Beholder's Sweep Breath Punch
+Unarmed,systema,Wave Strike,Leg Takedown,Forearm,7,10,Cold,Basilisk's Swipe Wave Strike
+Unarmed,systema,Wave Strike,Spinning Elbow,Foot,7,8,Acid,Wyvern's Thud Wave Strike
+Unarmed,systema,Breath Punch,Straight Knee,Forearm,7,8,Acid,Chimera's Kuzushi Breath Punch
+Unarmed,systema,Whip Kick,Front Kick,Palm,10,5,Acid,Dragon's Sting Whip Kick
+Unarmed,systema,Wave Strike,Flying Knee,Elbow,7,7,Thunder,Chimera's Fa jin Wave Strike
+Unarmed,systema,Center Drop,Axe Kick,Fist,10,6,Cold,Hydra's Crack Center Drop
+Unarmed,systema,Breath Punch,Suplex,Knee,6,9,Acid,Basilisk's Parry Breath Punch
+Unarmed,systema,Center Drop,Horizontal Elbow,Foot,8,9,Thunder,Kraken's Zanshin Center Drop
