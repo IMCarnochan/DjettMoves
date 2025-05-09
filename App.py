@@ -97,7 +97,7 @@ unarmed_quotes = [
         "You are stronger than you believe. — Wonder Woman"
     ]
 
-    category = result['Category']
+category = result['Category']
     if category == "Weapon":
         quote = random.choice(weapon_quotes)
     elif category == "Grappling":
